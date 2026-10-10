@@ -157,7 +157,7 @@ These are potential applications, not claims of deployment or measured real-worl
 
 - GitHub: [Amrutha-V-L3](https://github.com/Amrutha-V-L3)
 - Portfolio: [Data Science Portfolio](https://datascienceportfol.io/amruthavl2022)
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: [https://www.linkedin.com/in/amruthavl/]
 
 ## 📄 License
 
