@@ -1,0 +1,19 @@
+# Trained models
+*.h5
+*.hdf5
+*.pt
+*.pth
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset images
+*.jpg
+*.jpeg
+*.png
+
+# Local environment files
+.env
